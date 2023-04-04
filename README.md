@@ -1,6 +1,6 @@
 # Express JS OAuth2 Server using oauth2-server package
 
-This project is an updated interpretation of teh sample OAuth2 Server application code for the post [Express JS OAuth 2 Server using oauth2-server package](https://niceprogrammer.com/express-js-oauth-2-server-using-oauth2-server-package/)
+This project is an updated interpretation of the sample OAuth2 Server application code for the post [Express JS OAuth 2 Server using oauth2-server package](https://niceprogrammer.com/express-js-oauth-2-server-using-oauth2-server-package/)
 
 About OAuth 2.0 grant flows: [Which OAuth 2.0 grant should I implement?](https://oauth2.thephpleague.com/authorization-server/which-grant/)
 
