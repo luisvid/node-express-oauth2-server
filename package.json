@@ -1,0 +1,26 @@
+{
+    "name": "oauth2-server-poc",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "keywords": [],
+    "author": "luisvid",
+    "license": "ISC",
+    "dependencies": {
+        "connect-flash": "^0.1.1",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "debug": "^4.3.4",
+        "express": "^4.18.2",
+        "express-oauth-server": "^2.0.0",
+        "express-session": "^1.17.3",
+        "hbs": "^4.2.0",
+        "http-errors": "^2.0.0",
+        "mongoose": "^7.0.3",
+        "morgan": "^1.10.0",
+        "node-sass-middleware": "^1.0.1",
+        "oauth2-server": "^3.1.1"
+    }
+}
